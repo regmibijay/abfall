@@ -2,7 +2,7 @@
 Benachrichtigungen über Müllabholtermin per Email
 
 ## Nutzung  
-Die Abholtermine werden zeilengetrennt eingetragen. Die Login-Daten der Absenderemailadresse sollte nach Format geprüft werden.
+Die Abholtermine werden zeilengetrennt eingetragen. Die Login-Daten der Absender-Emailadresse sollte nach Format geprüft werden.
 
 ## Warum?  
 Ich vergesse ständig, meine Mülltonnen rauszustellen, und Sie vielleicht auch.
@@ -12,5 +12,5 @@ Ich vergesse ständig, meine Mülltonnen rauszustellen, und Sie vielleicht auch.
   Gerne.
 - Woher bekomme ich die Termine?  
   Weiß ich doch nicht. Vielleicht bei eigener Stadtreinigung fragen.  
-- Hast du sonst andere sinnlosen Repos erstellt?  
+- Hast du sonst andere sinnlose Repos erstellt?  
   Ja, die meisten sind aber privat.
